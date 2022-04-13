@@ -1,5 +1,3 @@
-https://cholpon-dd.github.io/task_19_react_landing/index.html
-
 
 # Getting Started with Create React App
 
