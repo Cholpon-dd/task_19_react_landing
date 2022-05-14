@@ -1,6 +1,3 @@
-# https://task-19-react-landing.vercel.app/
-
-
 
 # Getting Started with Create React App
 
